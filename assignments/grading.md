@@ -7,7 +7,7 @@
 
 ## Overview
 
-> Grading is generally based on the [College Board scale](https://pages.collegeboard.org/how-to-convert-gpa-4.0-scale), with 97-100 representing an A+.
+> Grading is generally based on a 100-point scale, with 95-100 representing an A.
 
 This class emphasizes the importance of producing readable, reusable and reliable code. 
 
