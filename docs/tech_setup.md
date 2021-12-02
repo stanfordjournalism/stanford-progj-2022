@@ -6,7 +6,7 @@ This course requires a number of free services and tools available on Unix/Mac s
 
 - [Services and platforms](#services-and-platforms)
 - [Windows](#windows)
-- [Text Editor](#text-editor)
+- [Code Editor](#code-editor)
 - [Shell terminal](#shell-terminal)
 - [Version control](#version-control)
 - [Python](#python)
@@ -15,7 +15,7 @@ This course requires a number of free services and tools available on Unix/Mac s
 
 ## Services and Platforms
 
-* Slack: Join the **comm-177p-progj** channel in the [StanfordJournalism][] workspace.
+* Slack: Join the course Slack workspace through Canvas.
 * Sign up for [GitHub](https://github.com/).
 
 ## Windows
@@ -45,9 +45,9 @@ Follow the instructions [here](https://marketplace.visualstudio.com/items?itemNa
 
 > With this option, you *will* need to perform the additional Linux setup steps described below.
 
-## Text Editor
+## Code Editor
 
-You'll need a text editor designed for working with code. For beginners, we recommend [VSCode][] or [Atom][], although you're free to use other tools of your own choosing.
+You'll need a text editor designed for writing code. Beginners should use [VSCode][]. More experienced users are free to use editors of their choosing.
 
 ## Shell Terminal
 
@@ -107,10 +107,8 @@ Follow [these steps][] but skip the installation of Homebrew, which should have 
 [these steps]: https://docs.python-guide.org/starting/install3/osx/#install3-osx
 
 
-[Atom]: https://atom.io/
 [Homebrew]: https://brew.sh/
 [git]: https://git-scm.com/
-[StanfordJournalism]: https://stanford-r8xo.slack.com/home
 [VSCode]: https://code.visualstudio.com/
 
 ### Linux
