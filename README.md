@@ -21,5 +21,9 @@ Sundry notes and code bits for Stanford's Programming in Journalism class (COMM 
 
 ### Week 1
 
-TK
+#### Day 1 - Course Intro
+
+* Course overview
+* Discuss the [history](docs/history.md) of code and data analysis in journalism
+* [Software install](docs/tech_setup.md) party (w00t!!)
 
