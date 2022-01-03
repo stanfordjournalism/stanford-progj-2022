@@ -56,7 +56,7 @@ To complete the assignment, do the following:
   * If you see a file path to the command, you're all set
   * If you don't get any output, run `brew install curl`
 * Create a personal code directory: `mkdir ~/code/`
-* Download the starter script from [here](https://raw.githubusercontent.com/stanfordjournalism/stanford-progj-2021/main/code/failed_banks_ca.sh) and save it in the `~/code` directory. You'll need to right click on the page in your browser to save it.
+* Download the starter script from [here](https://raw.githubusercontent.com/stanfordjournalism/stanford-progj-2022/main/code/failed_banks_ca.sh) and save it in the `~/code` directory. You'll need to right click on the page in your browser to save it.
 * Open `failed_banks_ca.sh` in VS Code or another *code* editor (not MS Word!)
 * **Carefully read the script** from top to bottom
 * Complete the items marked `TODO` in order to make the script produce the expected output
