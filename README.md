@@ -26,4 +26,5 @@ Sundry notes and code bits for Stanford's Programming in Journalism class (COMM 
 * Course overview
 * Discuss the [history](docs/history.md) of code and data analysis in journalism
 * [Software install](docs/tech_setup.md) party (w00t!!)
+* Preview of [automation with Bash](exercises/bash_preview.md)
 
