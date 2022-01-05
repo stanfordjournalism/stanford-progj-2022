@@ -23,10 +23,17 @@ Sundry notes and code bits for Stanford's Programming in Journalism class (COMM 
 
 #### Day 1 - Course Intro
 
-* Course overview
+* Course overview - syllabus, [grading](assignments/grading.md), etc.
 * Discuss the [history](docs/history.md) of code and data analysis in journalism
-* [Software install](docs/tech_setup.md) party (w00t!!)
 * Preview of [automation with Bash](exercises/bash_preview.md)
+* [How to Succeed in this Course](docs/how_to_succeed.md)
+
+#### Day 2 - The Owl, Problem Solving, and the Unix Workbench
+
+* [The Owl, Problem Solving, and the Unix Workbench](docs/owl_probs_unix.md)
+* [Bash intro](https://tinyurl.com/bash-intro)
+* [Bash drill](exercises/bash_drill.md)
+* [Software installs](docs/tech_setup.md), part deux (config and Python install)
 * **[Assignment 0](assignments/bash_intro.md)** - Unix practice and failed banks script
 
 

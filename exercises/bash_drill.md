@@ -10,18 +10,42 @@ thought.
 
 Open a terminal.
 
+> Below is working code. Lines that start with `#` are code comments
+> (i.e. they will not be executed).
+
 ```
-# The most fundamental question: Where am I?
+# Unix is profound
+whoami
+
+# Where am I? You're in your home directory!
 pwd
 
-# Do you have a Desktop?
+# What dirs/files do you see?
 ls
 
-# Create the Desktop, just in case
-mkdir ~/Desktop
+# Let's create a code directory
+mkdir code
 
-# Navigate to Desktop
-cd ~/Desktop
+# What happens if you try to create it again?
+mkdir code
+
+# Be more forgiving (commands have flags!)
+mkdir -p code
+
+# What is that flag all about? Are there other options?
+man mkdir # or you can use the Internet
+
+# Hit "q" to exit out of the manual for mkdir!
+
+# The manual can be quite long for some commands
+man find
+
+# Don't forget to hit "q" to exit the manual!
+
+# OK, back to our previously scheduled program...
+
+# Navigate to the code directory
+cd code
 
 # Print working directory
 pwd
@@ -55,7 +79,7 @@ echo hamster >> animals.txt
 # Count the lines in animals.txt
 wc -l animals.txt
 
-# You can also print the first few lines of 
+# You can also print the first few lines of
 # a file using "head" (first 10 by default)
 head animals.txt
 
@@ -63,11 +87,17 @@ head animals.txt
 # output the first line
 head -1 animals.txt
 
-# Sort the words in the file
-sort animals.txt
+# Or print the last lines of a file
+tail -1 animals.txt
 
 # Search the file for the word dog
 grep dog animals.txt
+
+# Sort the words in the file
+sort animals.txt
+
+# Note this doesn't change the underlying file
+cat animals.txt
 
 # Sort the animals.txt and save the sorted list to animals_sorted.txt
 sort animals.txt > animals_sorted.txt
@@ -75,7 +105,7 @@ sort animals.txt > animals_sorted.txt
 # Rename animals.txt to pets.text
 mv animals.txt pets.txt
 
-# Copy animals_sorted.txt to a animals.txt
+# Copy animals_sorted.txt to animals.txt
 cp animals_sorted.txt animals.txt
 
 # List the directory contents
@@ -96,13 +126,26 @@ ls
 # Navigate to the parent directory
 cd ..
 
-# Print working dir (should be on Desktop)
+# Print working dir (should be in ~/code)
 pwd
 
-# List Desktop contents (should see bash-drill)
+# List directory contents (should see code/ dir)
 ls
 
-# Delete the directory (this will fail)
+# NOTE: Store all your code in this directory going forward!!
+
+# Create a symlink, or shortcut, to code/ dir from your Desktop
+ln -s ~/code ~/Desktop/code
+
+# Check out the symlink
+cd ~/Desktop
+ls -l code
+
+# Navigate into shortcut dir to verify it works
+cd code
+ls  # you should see bash-drill/
+
+# OK, let's clean up now.  Delete the directory (this will fail)
 rmdir bash-drill/
 
 # List contents of bash-drill
@@ -114,14 +157,21 @@ rm bash-drill/*
 # Remove the dir
 rmdir bash-drill/
 
-# Print your env. Whaaaaat?????
+# Verify bash-drill is gone
+ls
+
+# Unix/bash has built-in variables
+# For example
+echo $HOME  # (told ya echo was handy)
+
+# Print all variables in your env. Whaaaaat?????
 env
 
 # Print your env and filter the
 # output for just the PATH variable
 env | grep PATH
 
-# Or just echo $PATH (told ya echo is useful)
+# Or just echo $PATH
 echo $PATH
 ```
 
