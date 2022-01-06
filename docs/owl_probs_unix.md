@@ -33,7 +33,14 @@ You can apply this methodology to varying degrees of granularity. Just try to ke
 
 **Read the docs.** When using a new tool or library, don't just head to StackOverflow to copy/paste a "solution". Spend a few minutes skimming the official documentation and getting a sense of the library's features. Walk through the tutorial. Then try writing your own code. You'll gain a more intuitive sense of what each line of your code does, how to find answers in the official documenations, and develop ambient awareness of the library's full set of features.
 
-**Tinker, Build (rinse and repeat).** Rather than immediately writing the code for a project, take some time to experiment with the various libraries required for the project. If you're scraping data, fire up an interactive Python shell or write a "toy" Python script that scrapes data from a simple web page. Then try adapting your experiments to that government website you're itching to scrape. Tinkering on simple use cases will help build confidence and familiarity with libraries, and prepare you to adapt them to more advanced use cases.
+**Tinker, Build (rinse and repeat).** Rather than immediately writing the code for a project, take some time to experiment with the various libraries required for the project. If you're scraping data, fire up an interactive Python shell or write a "toy" Python script that scrapes data from a simple web page. Then try adapting your experiments to that government website you're itching to scrape. Tinkering on simple use cases will help build confidence and familiarity with libraries, and prepare you to adapt them to more advanced use cases. 
+
+> Here's a [YouTube video][] and [slide deck][] on the process using a Bash script example.
+
+[YouTube video]: https://youtu.be/uHO3YErEJqg
+
+[slide deck]: https://docs.google.com/presentation/d/e/2PACX-1vRscVnM94RK9BLCwM-u3qA1zcGeCabw2wZ-2ii8h7x6HRxBIoz3HxjK8qhFLsde9bd2TdAimTMOvZOe/pub?start=false&loop=false&delayms=3000
+
 
 **Add tools gradually.** The ecosystem of languages, tools and libraries involved in programming can easily overwhelm new programmers (as well as veterans). You'll no doubt come across highly opinionated folks advocating a particular set of tools or workflows. Don't feel you need to adopt their opinions! Start simple. You only need a text editor, the Bash shell, and a general purpose programming language like Python to get started. As you gain experience, add tools and language features as the opportunities arise.
 

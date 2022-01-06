@@ -1,11 +1,26 @@
 ## Goals
 
-* Get comfy on the command line
-* Complete a shell script to filter for failed banks
+- Learn how to code incrementally
+- Get comfy on the command line
+- Complete a shell script to filter for failed banks
 
+You should work through each section of the assignment as laid out here:
+
+- [Watch](#watch)
 - [Read and practice](#read-and-practice)
 - [Play](#play)
 - [Code](#code)
+
+## Watch
+
+Writing a program that performs numerous discrete tasks can be tricky. A useful workflow for building out such scripts is to **code incrementally.**. 
+
+For this part of the assigment, please watch [Tinker, copy, run. Repeat](https://youtu.be/uHO3YErEJqg), a short YouTube video that provides an overview of the process.
+
+> Here's the related [slide deck][] from the video.
+
+[slide deck]: https://docs.google.com/presentation/d/e/2PACX-1vRscVnM94RK9BLCwM-u3qA1zcGeCabw2wZ-2ii8h7x6HRxBIoz3HxjK8qhFLsde9bd2TdAimTMOvZOe/pub?start=false&loop=false&delayms=3000
+
 
 ## Read and practice
 

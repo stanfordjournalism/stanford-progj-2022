@@ -32,13 +32,20 @@ cd new-project
 
 If you're ever confused about which directory you're in on the command line, type `pwd` to print the "working" directory.
 
-### Tinker in shell, copy to code editor
+### Tinker, copy, run. Repeat
 
 If you're working on a [shell script](http://swcarpentry.github.io/shell-novice/06-script/index.html) that requires multiple commands (e.g. creating a script that downloads and processes data), a common workflow is to start by experimenting with the commands directly in the shell.
 
-Once you're confident that a command is working as expected, copy and paste the command over to the script.
+Once you're confident that a command is working as expected, copy and paste the command over to the script. Then run the script to verify all the steps work together.
 
-Remember, you should be using a proper code editor such as Visual Studio Code to create and edit shell scripts.
+You can repeat this process to incrementally build out a script.
+
+Check out the YouTube video [Tinker, copy, run. Repeat](https://youtu.be/uHO3YErEJqg) and the related [slide deck][] for an overview using a Bash shell script example.
+
+> And don't forget: You should be using a proper code editor such as Visual Studio Code to create and edit shell scripts.
+
+
+[slide deck]: https://docs.google.com/presentation/d/e/2PACX-1vRscVnM94RK9BLCwM-u3qA1zcGeCabw2wZ-2ii8h7x6HRxBIoz3HxjK8qhFLsde9bd2TdAimTMOvZOe/pub?start=false&loop=false&delayms=3000
 
 
 ### Recovering "lost" commands
