@@ -11,7 +11,7 @@ You should work through each section of the assignment as laid out here:
 - [Read and practice](#read-and-practice)
 - [Play](#play)
 - [Code](#code)
- - [Submission](#submission)
+  - [Submission](#submission)
 
 ## Watch
 
