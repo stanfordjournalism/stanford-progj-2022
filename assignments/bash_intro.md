@@ -3,6 +3,7 @@
 - Learn how to code incrementally
 - Get comfy on the command line
 - Complete a shell script to filter for failed banks
+- Learn about GitHub Gists
 
 You should work through each section of the assignment as laid out here:
 
@@ -10,6 +11,7 @@ You should work through each section of the assignment as laid out here:
 - [Read and practice](#read-and-practice)
 - [Play](#play)
 - [Code](#code)
+ - [Submission](#submission)
 
 ## Watch
 
