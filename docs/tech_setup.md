@@ -91,29 +91,73 @@ sudo apt install git-all
 
 ## Python
 
-**Python 3.5 - 3.8**
+**Python 3.7 - 3.8**
 
 Before installing Python, first open a shell and run: `python --version`.
 
-If you have a version between Python 3.5 and 3.8, you're all set.
+If you have a version between Python 3.7 and 3.8, you're all set.
 
 If you have an older Python version (e.g. 2.7), follow the below instructions.
 
 ### Mac
 
-Follow [these steps][] but skip the installation of Homebrew, which should have been installed earlier when we set up [git](#version-control) (see above).
+Mac users will use Homebrew to install Python. At a high level, the
+process involves installing a tool called [pyenv][]. This tool allows
+you to install and manage multiple versions of Python.
 
-[install instructions]: https://docs.python-guide.org/starting/installation/
-[these steps]: https://docs.python-guide.org/starting/install3/osx/#install3-osx
+We'll use it to install Python 3.8.12 (the latest version of 3.8 at the
+time of writing).
 
+First, open a Terminal and make sure your shell is set to bash (newer Macs default to zsh):
+
+```bash
+chsh -s /bin/bash
+```
+
+Close and re-open the Terminal.
+
+Then run the below commands.
+
+> Execute the below commands one by one (i.e. copy and paste each row
+> individually rather than all the commands at once).
+
+```bash
+# Note, some of these commands can take several minutes to run!!
+
+brew install openssl readline sqlite3 xz zlib
+brew install pyenv
+pyenv install 3.8.12
+pyenv global 3.8.12
+```
+
+Then run the below commands to configure your shell, per the [pyenv docs for bashrc on Mac](https://github.com/pyenv/pyenv#basic-github-checkout).
+
+> Below is the workflow if no `~/.profile`, `~/.bash_profile` or `~/ .bashrc` already exist, which apparently is default on Macs.
+
+```bash
+echo 'export PYENV_ROOT="$HOME/.pyenv"' >> ~/.profile
+echo 'export PATH="$PYENV_ROOT/bin:$PATH"' >> ~/.profile
+echo 'eval "$(pyenv init --path)"' >> ~/.profile
+echo 'if [ -n "$PS1" -a -n "$BASH_VERSION" ]; then source ~/.bashrc; fi' >> ~/.profile
+
+echo 'eval "$(pyenv init -)"' >> ~/.bashrc
+```
+
+Close and restart the Terminal.
+
+Type `python --version`, which should return 3.8.12
+
+> If you do not see Python 3.8 at the end of this process, please reach
+> out for help.
 
 [Homebrew]: https://brew.sh/
 [git]: https://git-scm.com/
 [VSCode]: https://code.visualstudio.com/
+[pyenv]: https://github.com/pyenv/pyenv
 
 ### Linux
 
-Use [pyenv](https://github.com/pyenv/pyenv), a tool that allows you to install and manage multiple versions of Python. Run these commands from a shell:
+Use [pyenv][], a tool that allows you to install and manage multiple versions of Python. Run these commands from a shell:
 
 ```
 # Clone pyenv
