@@ -13,7 +13,7 @@ You should work through each section of the assignment as laid out here:
 
 ## Watch
 
-Writing a program that performs numerous discrete tasks can be tricky. A useful workflow for building out such scripts is to **code incrementally.**. 
+Writing a program that performs numerous discrete tasks can be tricky. A useful workflow for building out such scripts is to **code incrementally**.
 
 For this part of the assigment, please watch [Tinker, copy, run. Repeat](https://youtu.be/uHO3YErEJqg), a short YouTube video that provides an overview of the process.
 

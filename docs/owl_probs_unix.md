@@ -76,7 +76,7 @@ Finally, combine your "sub-solutions" into a single script -- or perhaps several
 
 ## Recommended Reading
 
-* [The Pragmatic Programmer, Shell Games (Section 15)](https://searchworks.stanford.edu/view/8257021)
+* [The Pragmatic Programmer, Shell Games (Topic 17)](https://searchworks.stanford.edu/view/13463707)
 * [How to Solve It](https://en.wikipedia.org/wiki/How_to_Solve_It)
 * [Unix Philosophy](https://en.wikipedia.org/wiki/Unix_philosophy)
 
