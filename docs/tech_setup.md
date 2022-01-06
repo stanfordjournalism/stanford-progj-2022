@@ -97,7 +97,7 @@ Before installing Python, first open a shell and run: `python --version`.
 
 If you have a version between Python 3.7 and 3.8, you're all set.
 
-If you have an older Python version (e.g. 2.7), follow the below instructions.
+If you have an older Python version (e.g. 2.7), follow the below instructions for Mac users.
 
 ### Mac
 
