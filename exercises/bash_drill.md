@@ -5,6 +5,7 @@ thought.
 
 - [The drill](#the-drill)
 - [To Ponder](#to-ponder)
+- [Variations on the drill](#variations-on-the-drill)
 
 ## The drill
 
@@ -22,6 +23,9 @@ pwd
 
 # What dirs/files do you see?
 ls
+
+# Random tidbit: To clear your shell
+clear # or CTRL + l
 
 # Let's create a code directory
 mkdir code
@@ -185,3 +189,18 @@ Some things to consider/discuss/research:
 - Why does echo print environment variables when prefixed with the `$`
   sign? E.g. `echo $PATH`
 - What other commands are "built-in" and automatically available on Unix?
+
+## Variations on the drill
+
+The [Bash Drill](#the-drill) provides a short crash course on basic shell usage and Unix commands. 
+We'll do this drill several times over the quarter to build muscle memory on the command line. The first few passes through the drill will be slow-going as we work through snags and take time to discuss questions
+that arise along the way.
+
+As everyone becomes more comfortable on the command line, we'll go "off script" and apply one or more of the following variations to the exercise.
+
+- **Rotating leads**. We'll rotate drill leaders for entirety of exercise or even during a single run of the exercise (i.e. have multiple leads during a single walk-through).
+- **Blind-folded**. Drill leader will not screenshare and will instead speak the commands. At the end of drill, we'll see if everyone ended up with same results.
+- **Plain English**. Drill leader will *describe* the commands to type rather than specifying the precise sytnax. For example, she will say "*Navigate* to your code directory"* rather than "*cd* to the code directory". Combine this with the *Blind-folded* method to better test mental translation and recall.
+- **Ad lib**. Drill leader wll make up ad hoc commands rather than using the commands specified on this page.
+
+
