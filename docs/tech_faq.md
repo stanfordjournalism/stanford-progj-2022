@@ -17,7 +17,7 @@ You should see a prompt that looks like this: `~>`
 Open Terminal.
 
 ```bash
-echo "export BASH_SILENCE_DEPRECATION_WARNING=1" >> `~/.profile`
+echo "export BASH_SILENCE_DEPRECATION_WARNING=1" >> ~/.profile
 ```
 
 Close and re-open Terminal
