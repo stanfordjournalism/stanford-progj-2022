@@ -1,5 +1,28 @@
 # Technical FAQs
 
+
+### How do I prettify my shell prompt?
+
+> Note, depending on how your shell is set up, you may need to place the below environment variable in a different configuration file such as `~/.bash_profile`, `~/.bashrc`.
+
+1. Open the Terminal
+1. Paste the following command: `echo "PS1='\w> '" >> ~/.profile`
+1. Hit enter
+1. Close the Terminal and re-open a new Terminal
+
+You should see a prompt that looks like this: `~>`
+
+### How do I silence zsh shell warning?
+
+Open Terminal.
+
+```bash
+echo "export BASH_SILENCE_DEPRECATION_WARNING=1" >> `~/.profile`
+```
+
+Close and re-open Terminal
+
+
 ### Why won't X install on Mac Catalina?
 
 Some students reported warnings about "malicious" software when trying to install VSCode or Atom code editors on Mac Catalina.
