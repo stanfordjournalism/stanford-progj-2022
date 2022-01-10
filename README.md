@@ -33,7 +33,37 @@ Sundry notes and code bits for Stanford's Programming in Journalism class (COMM 
 * [The Owl, Problem Solving, and the Unix Workbench](docs/owl_probs_unix.md)
 * [Bash intro](https://tinyurl.com/bash-intro)
 * [Bash drill](exercises/bash_drill.md)
-* [Software installs](docs/tech_setup.md), part deux (config and Python install)
 * **[Assignment 0](assignments/bash_intro.md)** - Unix practice and failed banks script
 
+
+### Week 2
+
+#### Day 3 - Unix Power Tools
+
+* Misc
+  * [Bashcrawl Mac bug](https://github.com/stanfordjournalism/stanford-progj-2022/issues/7)
+  * [Prettify your shell prompt](docs/tech_faq.md#how-do-i-prettify-my-shell-prompt)
+  * [Silence zsh warning](docs/tech_faq.md#how-do-i-silence-zsh-shell-warning)
+  * [Bash drill](exercises/bash_drill.md)
+  * Workflow advice: [Tinker, copy, run. Repeat.](docs/workflow_advice.md#tinker-copy-run-repeat)
+* [Software installs](docs/tech_setup.md) -- everyone must have Python installed and GitHub configured by end of class.
+* [Unix Power Tools for Data Wrangling](docs/power_tools_for_data_wrangling.md)
+* [Bash drill](exercises/bash_drill.md) - Yep. Again. This time using the "Blind-folded" and "Plain English" [variations](exercises/bash_drill.md#variations-on-the-drill).
+* **[Assignment 1](assignments/python_intro.md)** - Python reading/practice and code challenge
+
+#### Day 4 - Python Intro
+
+* [Python overview and coding contexts](docs/python/overview.md)
+* [Python Syntax Crash Course](docs/python/python_syntax_crash_course.md)
+
+
+### Week 3
+
+#### Day 5 - MLK Day
+
+No class.
+
+#### Day 6 - Python Intro Part Deux
+
+Continued....
 
