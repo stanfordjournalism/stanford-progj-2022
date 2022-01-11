@@ -42,6 +42,8 @@ Instead, try the below workflow to incrementally build up your script.
 * If you have bugs in `filter_animals.py`, fix the bugs in the script until it's working as expected. Pay special attention to code indentation, which is a common source of bugs with this copy/paste workflow.
 * Return to the interactive Python environment and repeat the above process for the next bit of code.
 
+> Check out the [Tinker, copy, run. Repeat](https://youtu.be/uHO3YErEJqg) YouTube video for a visual explainer on this incremental coding process (it uses Bash shell script but the same workflow works for Python).
+
 ### Submission
 
 Once the `filter_animals.py` script is complete, create a [GitHub gist](https://docs.github.com/en/free-pro-team@latest/github/writing-on-github/creating-gists#creating-a-gist) with the code and submit its URL via Canvas.
