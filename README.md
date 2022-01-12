@@ -53,8 +53,16 @@ Sundry notes and code bits for Stanford's Programming in Journalism class (COMM 
 
 #### Day 4 - Python Intro
 
+* [Failed banks assignment]((assignments/bash_intro.md)) questions? If everyone submitted, we can review the solution...
 * [Python overview and coding contexts](docs/python/overview.md)
+* Questions about [Assignment 1](assignments/python_intro.md)? It covered a lot of important fundamentals:
+  - Python interactive shell
+  - Expressions
+  - Basic data types
+  - Variables
+  - Flow control (conditions and blocks, if/else/elif etc.)
 * [Python Syntax Crash Course](docs/python/python_syntax_crash_course.md)
+* **[Assignment 2](assignments/python_lists_dicts.md)** - Python lists/dicts and DataKit overview
 
 
 ### Week 3
@@ -65,5 +73,8 @@ No class.
 
 #### Day 6 - Python Intro Part Deux
 
-Continued....
-
+* Questions about [Assignment 2](assignments/python_lists_dicts.md) on Python lists/dicts?
+* [Automating workflows](docs/automating_workflows.md)
+* [DataKit overview](docs/datakit.md)
+* Complete Tech Setup [configuration](docs/tech_setup.md#configure) and install [DataKit](docs/datakit.md)
+* **[Assignment 3](assignments/libraries_and_fdic_py.md)** - Practical Python skills and Failed Banks in Python
