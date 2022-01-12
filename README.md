@@ -54,6 +54,7 @@ Sundry notes and code bits for Stanford's Programming in Journalism class (COMM 
 #### Day 4 - Python Intro
 
 * [Failed banks assignment]((assignments/bash_intro.md)) questions? If everyone submitted, we can review the solution...
+* [Python Intro and resources](docs/python) links to misc docs/tutorials on this GitHub repo
 * [Python overview and coding contexts](docs/python/overview.md)
 * Questions about [Assignment 1](assignments/python_intro.md)? It covered a lot of important fundamentals:
   - Python interactive shell
