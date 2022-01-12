@@ -11,19 +11,20 @@
 In this course we'll dip into the culture of [newsroom automation](automating_workflows.md) by using [DataKit][], an open-source command-line tool created by The Associated Press. DataKit was [designed in a team environment][] to bring sanity to data projects. Among other things, it helps standardize project structures, easily share code and data with teammates, and even publish data as part of story packages.
 
 [DataKit]: https://datakit.ap.org/
-[designed in a team environment]: https://www.rjionline.org/stories/ap-datakit-intro
+[designed in a team environment]: https://rjionline.org/news/aps-datakit-helping-teams-collaborate-efficiently/
 
 It also makes it easy to customize workflows to suit different teams and individuals. We've customized DataKit for use in the classroom.
 
 DataKit will help us streamline our workflow while applying best practices from the worlds of data science and software. Among other things, it will help us:
 
 * Create standard project structures for all code work
-* Use [virtual environments](https://docs.python.org/3/tutorial/venv.html) for Python (using [pipenv](https://docs.python-guide.org/dev/virtualenvs/))
+* Use [virtual environments](https://docs.python.org/3/tutorial/venv.html) for Python (using [pipenv][]
 * Save code and data in [version control](https://en.wikipedia.org/wiki/Version_control) ([git][])
 * Publish our work to GitHub, making it easy to open-source if we choose
 * Easily share our work with instructors
 
 [git]: https://git-scm.com/book/en/v2
+[pipenv]: https://pipenv.pypa.io/en/latest/#pipenv-python-dev-workflow-for-humans
 
 See [here](https://github.com/stanfordjournalism/cookiecutter-stanford-progj) for more details on our classroom workflow and customizations.
 

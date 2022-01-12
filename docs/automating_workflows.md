@@ -1,6 +1,6 @@
 # Working at the Speed of News
 
-> "Laziness: The quality that makes you go to great effort to reduce overall energy expenditure. It makes you write labor-saving programs that other people will find useful and document what you wrote so you don't have to answer so many questions about it." ~ [Larry Wall](http://threevirtues.com/), creator of Perl 
+> "Laziness: The quality that makes you go to great effort to reduce overall energy expenditure. It makes you write labor-saving programs that other people will find useful and document what you wrote so you don't have to answer so many questions about it." ~ [Larry Wall](https://thethreevirtues.com/), creator of Perl 
 
 When news breaks and you're new to a beat, it can be especially stressful to hunt down sources and pull together copy under deadline. Veteran reporters, on the other hand, often have (slightly) lower stress levels. They typically have a wealth of domain
 knowledge to dip into. They're intimately familiar with the trends and key players on their beat, as well as documents that can provide background or help answer questions. They have a stable of human sources who can speak to an issue or point them toward other, more relevant sources.
@@ -13,7 +13,7 @@ Newsroom coders such as Tiff make a virtue of "laziness." Here are a few example
 
 * [Content publishing](https://tarbell.readthedocs.io/en/1.0.10/)
 * [Data analysis](https://agate.readthedocs.io/en/1.6.1/)
-* [Data-gathering web admins](https://docs.djangoproject.com/en/3.0/ref/contrib/admin/)
+* [Data-gathering web admins](https://docs.djangoproject.com/en/4.0/ref/contrib/admin/)
 * [Document handling](https://www.documentcloud.org/)
 * [News tips](https://newsklaxon.org/)
 * [Storybots](https://slate.com/technology/2014/03/quakebot-los-angeles-times-robot-journalist-writes-article-on-la-earthquake.html)
