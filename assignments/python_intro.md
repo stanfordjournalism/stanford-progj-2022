@@ -15,7 +15,7 @@ Read and work through the specified sections of Chapters 0-2 in [Automate the Bo
 
 * [Chapter 0 - Introduction](https://automatetheboringstuff.com/2e/chapter0/) - Read from top through *Programming is a Creative Activity*
 * [Chapter 1 - Python Basics](https://automatetheboringstuff.com/2e/chapter1/) - Work through the whole chapter. For *Your First Program*, use VS Code or another code editor to create `hello.py`. Then run it on the command line by executing `python hello.py`.
-* [Chapter 2 - Flow Control](https://automatetheboringstuff.com/2e/chapter2/) - Read through *Flow Control Statements - Elif Statements* (stop just before *while Loop Statements*)
+* [Chapter 2 - Flow Control](https://automatetheboringstuff.com/2e/chapter2/) - Read through *Flow Control Statements - Elif Statements* (stop just before [while Loop Statements](https://automatetheboringstuff.com/2e/chapter2/#calibre_link-121))
 * ["for" loops (W3C)](https://www.w3schools.com/python/python_for_loops.asp) - Read and work through all sections
 
 ## Code
