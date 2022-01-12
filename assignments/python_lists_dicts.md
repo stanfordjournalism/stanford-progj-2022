@@ -6,8 +6,10 @@
 ## Read about DataKit
 
 * [Poynter article](https://www.poynter.org/tech-tools/2019/data-journalism-solves-big-problems-but-its-an-organizational-mess-a-new-tool-from-the-ap-aims-to-fix-that/) on Datakit provides a nice overview
-* [AP's DataKit: Helping Teams collaborate efficiently](https://www.rjionline.org/stories/ap-datakit-intro), by RJI, gets into more details on DataKit's origin story and capabilities.
+* [AP's DataKit: Helping Teams collaborate efficiently][], by RJI, gets into more details on DataKit's origin story and capabilities.
 
+
+[AP's DataKit: Helping Teams collaborate efficiently]: https://rjionline.org/news/aps-datakit-helping-teams-collaborate-efficiently/
 
 ## Python reading and practice
 
@@ -16,7 +18,7 @@ Read and work through the following:
 > **NOTE: You don't have to do the exercises in Automate the Boring Stuff, but you should type in the commands for code examples throughout the text. Use a standard interactive Python shell by typing `python` or `ipython` (if you've installed the latter).** 
 
 * Lists
-	* Read [Automate's Chapter 4 on Lists](https://automatetheboringstuff.com/chapter4/) and **stop right before** the section titled *Example Program: Magic 8 Ball with a List*.
+	* Read [Automate's Chapter 4 on Lists](https://automatetheboringstuff.com/chapter4/) and **stop right before** the section titled [Example Program: Magic 8 Ball with a List](https://automatetheboringstuff.com/chapter4/#calibre_link-2296).
 	* Do the [W3C schools lists exercise](https://www.w3schools.com/python/exercise.asp?filename=exercise_lists1)
 
 * Dictionaries (key/value mappings)
