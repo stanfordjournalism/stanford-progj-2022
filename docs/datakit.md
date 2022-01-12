@@ -18,7 +18,7 @@ It also makes it easy to customize workflows to suit different teams and individ
 DataKit will help us streamline our workflow while applying best practices from the worlds of data science and software. Among other things, it will help us:
 
 * Create standard project structures for all code work
-* Use [virtual environments](https://docs.python.org/3/tutorial/venv.html) for Python (using [pipenv][]
+* Use [virtual environments](https://docs.python.org/3/tutorial/venv.html) for Python (using [pipenv][])
 * Save code and data in [version control](https://en.wikipedia.org/wiki/Version_control) ([git][])
 * Publish our work to GitHub, making it easy to open-source if we choose
 * Easily share our work with instructors
