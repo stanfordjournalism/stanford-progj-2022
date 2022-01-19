@@ -72,10 +72,26 @@ Sundry notes and code bits for Stanford's Programming in Journalism class (COMM 
 
 No class.
 
+
 #### Day 6 - Python Intro Part Deux
 
 * Questions about [Assignment 2](assignments/python_lists_dicts.md) on Python lists/dicts?
+* Complete [configuration steps](docs/tech_setup.md#configure) 
+* **Pop Quiz: Lists/Dicts** (on [Tmux][] for a little taste of [Pair Programming][])  
+* [Dictionaries crash course](docs/python/dict_basics.md)
+* [Reading and writing text files](docs/python/file_io.md)
+* Choose-your-own adventure pair coding challenge (election data or covid in prisons)
+* **[Assignment 3](assignments/libraries_and_fdic_py.md)** - Practical Python skills and Failed Banks in Python
+
+### Week 4
+
+#### Day 7 - Automating Workflows and DataKit
+
 * [Automating workflows](docs/automating_workflows.md)
 * [DataKit overview](docs/datakit.md)
 * Complete Tech Setup [configuration](docs/tech_setup.md#configure) and install [DataKit](docs/datakit.md)
-* **[Assignment 3](assignments/libraries_and_fdic_py.md)** - Practical Python skills and Failed Banks in Python
+* Continue work in-class on **[Assignment 3 - FDIC python script](assignments/libraries_and_fdic_py.md)**
+
+[Tmux]: https://en.wikipedia.org/wiki/Tmux
+[Pair programming]: https://en.wikipedia.org/wiki/Pair_programming
+
