@@ -77,7 +77,7 @@ No class.
 
 * Questions about [Assignment 2](assignments/python_lists_dicts.md) on Python lists/dicts?
 * Complete [configuration steps](docs/tech_setup.md#configure) 
-* **Pop Quiz: Lists/Dicts** (on [Tmux][] for a little taste of [Pair Programming][])  
+* **Pop Quiz: Lists/Dicts** (on [Tmux][] in the cloud for a little taste of [Pair Programming][])
 * [Dictionaries crash course](docs/python/dict_basics.md)
 * [Reading and writing text files](docs/python/file_io.md)
 * Choose-your-own adventure pair coding challenge (election data or covid in prisons)
