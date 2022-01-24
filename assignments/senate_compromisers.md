@@ -13,7 +13,7 @@
 
 ## Overview
 
-Politicians often extol the virtues [bipartisanship][].
+Politicians often extol the virtues of [bipartisanship][].
 
 [bipartisanship]: https://www.usnews.com/news/politics/articles/2021-02-01/biden-opens-bipartisan-dialogue-with-republicans-on-coronavirus-relief
 
