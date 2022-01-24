@@ -13,11 +13,11 @@
 
 ## Overview
 
-There's much talk of [bipartisanship][] as the new Biden presidency gets under way.
+Politicians often extol the virtues [bipartisanship][].
 
 [bipartisanship]: https://www.usnews.com/news/politics/articles/2021-02-01/biden-opens-bipartisan-dialogue-with-republicans-on-coronavirus-relief
 
-For this exercise, let's say that you, the enterprising data reporter, wanted to identify senators who are most likely to work with the other side of the aisle on legislation.
+For this exercise, let's say that you, the enterprising data reporter, wanted to identify senators who truly are most inclined to work with the other side of the aisle on legislation.
 
 Anecdotally you know of "middle-of-the-road" or moderate senators in both parties, but you want to apply a more rigorous approach to create a longer list of Senators who may be most open to supporting bipartisan bills.
 
@@ -40,16 +40,16 @@ Sign up for a [ProPublica API Key](https://www.propublica.org/datastore/api/prop
 
 ### Store the API key
 
-Store the following code in `~/.bash_profile` if you're on a Mac or, if you're on Linux, in `~/.bashrc`. You'll need to replace `your_api_key` with the actual key: 
+Store the following code in `~/.bash_profile` if you're on a Mac or, if you're on Linux, in `~/.bashrc`. You'll need to replace `your_api_key` with the actual key:
 
 > Here's how to [edit hidden files on a Mac](/docs/tech_faq.md#how-do-i-edit-hidden-files-on-a-mac).
 
 ```
 # Below line goes in your ~/.bash_profile
 export PROPUBLICA_API_KEY="your_api_key"
-``` 
+```
 
-After adding the key, you should test that it is accessible by opening a new shell and executing the following command: 
+After adding the key, you should test that it is accessible by opening a new shell and executing the following command:
 
 ```
 printenv | grep PROPUBLICA
