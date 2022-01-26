@@ -1,15 +1,18 @@
-# Web Scraping Ramp-up
+# Web Basics
 
-Please read the below, which build upon and re-inforce the web scraping concepts and skills we covered in class.
+Before we can learn how to scrape websites, it's important to have a basic understanding of the Internet and Web. The below are a few resources to help get your bearings. Please read, watch and work through the exercises, as appropriate. If you fail to work through the below material, you'll likely be very confused as we ramp up on [web scraping](/docs/README.md).
 
-* [Web scraping for the news](../docs/web_scraping/README.md) - a high-level overview of web scraping in a news context.
-* [Web scraping 101](../docs/web_scraping/101.md) - how to dissect a website, various obstacles to scraping and strategies for overcoming them.
-* [Inspecting the Web with Chrome's
-  DevTools](http://www.compjour.org/tutorials/intro-to-the-web-inspector/) - Read and work through the following sections:
-  * [Elements of a Webpage](http://www.compjour.org/tutorials/elements-of-a-webpage/)
-  * [The Styles of a Webpage](http://www.compjour.org/tutorials/styles-of-a-webpage/)
-  * [Watching Traffic with the Network Panel](http://www.compjour.org/tutorials/watching-traffic-network-panel/)
-  * [Reading the Metadata of Data Files in the Network Panel](http://www.compjour.org/tutorials/data-files-without-packaging/)
+## Goals
 
+* Gain an big-picture understanding of how the web works.
+* Get a feel for how web pages are constructed as prep to learn web
+  scraping
 
+## Resources to work through
 
+* Watch [The Internet in 5 Minutes (or Less)](https://www.youtube.com/watch?v=7_LPdttKXPc) and read [How does the Internet work?](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/How_does_the_Internet_work)
+* Read [How the Web works](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/How_the_Web_works)
+* Read the following intros to HTML and CSS:
+  * [HTML Introduction](https://www.w3schools.com/html/html_intro.asp)
+  * [HTML basics](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics) - this is part of a larger hands-on tutorial. It's well written and provides a good overview of the basics. Just skim this and ignore any instructions to create/modify HTML examples.
+  * [CSS Introduction](https://www.w3schools.com/Css/css_intro.asp)
