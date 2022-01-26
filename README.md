@@ -91,15 +91,31 @@ No class.
 * [DataKit overview](docs/datakit.md)
 * Complete Tech Setup [configuration](docs/tech_setup.md#configure) and install [DataKit](docs/datakit.md)
 * Continue work in-class on **[Assignment 3 - FDIC python script](assignments/libraries_and_fdic_py.md)** (**due by next class**)
-* **[Assignment 4](assignments/python_functions_sorting_web_basics.md)** - Level up on Python functions, sorting and web basics (**due by next class**)
 
 [Tmux]: https://en.wikipedia.org/wiki/Tmux
 [Pair programming]: https://en.wikipedia.org/wiki/Pair_programming
 
-#### Day 8 - Art of Functions; APIs and the News
+#### Day 8 - Practical Python Practice (Datakit Editio)
+
+* [Datakit][] workflow review
+* Wherefore, [virtual environments][] and [pipenv][]?
+* Libraries - Overview and practice practical skills
+  * Learn how to use [code libraries](/docs/python/libraries.md) included with Python or offered by third parties
+  * Learn how to [download remote files](/docs/python/remote_files.md)
+  * Learn how to [work with CSVs](/docs/python/csv.md)
+* Continue pair programming on **[Assignment 3 - FDIC python script](assignments/libraries_and_fdic_py.md)** (**due by next class**)
+* **[Assignment 4](assignments/python_functions_sorting_web_basics.md)** - Level up on Python functions, sorting and web basics (**due by next class**)
+
+[virtual environments]: https://realpython.com/pipenv-guide/
+[pipenv]: https://pipenv.pypa.io/en/latest/
+
+
+### Week 5
+
+#### Day 9
 
 * [APIs and the News](/docs/apis_and_the_news.md) overview and [presentation](https://tinyurl.com/apis-and-the-news)
-* [Working with APIs](/docs/python/working_with_apis.md) - *As of Feb. 1, 2022, certain unauthenticated OpenCorporates API endpoints were disabled due to excessive bot usage, so not all portions of the tutorial are functional.*
+* [Working with APIs](/docs/python/working_with_apis.md)
 * [Quakebot exercise](/exercises/quakebot.md) - hands-on practice with a JSON feed
 * [The Art of Writing Functions](/docs/python/art_of_functions.md)
 * **[Assignment 5](assignments/senate_compromisers.md)** - Senate compromisers Python script
