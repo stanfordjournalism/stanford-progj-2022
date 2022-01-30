@@ -98,7 +98,7 @@ Along the way, remember that you can use other shell commands such as `ls` and `
 Once you've completed the script:
 
 * Copy and paste the contents into a [GitHub gist](https://docs.github.com/en/free-pro-team@latest/github/writing-on-github/creating-gists#creating-a-gist)
-* Make sure you've named the file properly in the Gist: `ca_failed_banks.sh`
+* Make sure you've named the file properly in the Gist: `failed_banks_ca.sh`
 * Submit the URL to your Gist via Canvas
 
 
