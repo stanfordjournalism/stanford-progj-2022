@@ -88,10 +88,11 @@ No class.
 #### Day 7 - Automating Workflows and DataKit
 
 * [Automating workflows](docs/automating_workflows.md)
-* [DataKit overview](docs/datakit.md)
-* Complete Tech Setup [configuration](docs/tech_setup.md#configure) and install [DataKit](docs/datakit.md)
+* [DataKit overview][]
+* Complete Tech Setup [configuration](docs/tech_setup.md#configure) and install [DataKit][]
 * Continue work in-class on **[Assignment 3 - FDIC python script](assignments/libraries_and_fdic_py.md)** (**due by next class**)
 
+[Datakit]: docs/datakit.md
 [Tmux]: https://en.wikipedia.org/wiki/Tmux
 [Pair programming]: https://en.wikipedia.org/wiki/Pair_programming
 
