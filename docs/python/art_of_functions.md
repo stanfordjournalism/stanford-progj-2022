@@ -130,5 +130,5 @@ print("There are {} words on example.com".format(len(words)))
 
 ## Further reading
 
-* [W3C Python Functions](https://www.w3schools.com/python/python_functions.asp)
+* [W3Schools Python Functions](https://www.w3schools.com/python/python_functions.asp)
 * [Chapter 3 - Functions](https://automatetheboringstuff.com/2e/chapter3/) of *Automate the Boring Stuff*.
