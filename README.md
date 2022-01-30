@@ -95,7 +95,7 @@ No class.
 [Tmux]: https://en.wikipedia.org/wiki/Tmux
 [Pair programming]: https://en.wikipedia.org/wiki/Pair_programming
 
-#### Day 8 - Practical Python Practice (Datakit Editio)
+#### Day 8 - Practical Python Practice (Datakit Edition)
 
 * [DataKit][] workflow review
 * Wherefore, [virtual environments][] and [pipenv][]?
