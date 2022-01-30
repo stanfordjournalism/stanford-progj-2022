@@ -8,7 +8,7 @@ Sundry notes and code bits for Stanford's Programming in Journalism class (COMM 
 * [Assignments](assignments/README.md) and [Grading](assignments/grading.md)
 * [Bookshelf](docs/bookshelf.md) - recommended books, tutorials, cheatsheets, etc.
 * [Code solutions](https://github.com/zstumgoren/stanford-progj-2022-solutions) - A private repo containing solutions to class exercises.
-* [Datakit](docs/datakit.md) - overview and details on install and usage
+* [DataKit][] - overview and details on install and usage
 * [Getting Help](docs/getting_help.md) - Resources and strategies for finding help.
 * [Glossary](docs/glossary.md) - technical terms used in class
 * [Python](docs/python/README.md) - overview, tutorials, etc.
@@ -88,17 +88,16 @@ No class.
 #### Day 7 - Automating Workflows and DataKit
 
 * [Automating workflows](docs/automating_workflows.md)
-* [DataKit overview][]
+* Overview of [DataKit][]
 * Complete Tech Setup [configuration](docs/tech_setup.md#configure) and install [DataKit][]
 * Continue work in-class on **[Assignment 3 - FDIC python script](assignments/libraries_and_fdic_py.md)** (**due by next class**)
 
-[Datakit]: docs/datakit.md
 [Tmux]: https://en.wikipedia.org/wiki/Tmux
 [Pair programming]: https://en.wikipedia.org/wiki/Pair_programming
 
 #### Day 8 - Practical Python Practice (Datakit Editio)
 
-* [Datakit][] workflow review
+* [DataKit][] workflow review
 * Wherefore, [virtual environments][] and [pipenv][]?
 * Libraries - Overview and practice practical skills
   * Learn how to use [code libraries](/docs/python/libraries.md) included with Python or offered by third parties
@@ -120,3 +119,6 @@ No class.
 * [Quakebot exercise](/exercises/quakebot.md) - hands-on practice with a JSON feed
 * [The Art of Writing Functions](/docs/python/art_of_functions.md)
 * **[Assignment 5](assignments/senate_compromisers.md)** - Senate compromisers Python script
+
+
+[DataKit]: docs/datakit.md
