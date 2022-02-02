@@ -12,7 +12,7 @@ Assignment|Description|Solution
 [Assignment 3][] | Practical Python skills and FDIC Python | [:link:](https://github.com/zstumgoren/stanford-progj-2022-solutions/tree/main/fdic_py)
 [Assignment 4][] | Python functions and sorting; web basics | N/A
 [Assignment 5][] | Senate compromisers script | [:link:](https://github.com/zstumgoren/stanford-progj-2022-solutions/blob/main/propub_senate_api/senate_compromisers.py)
-
+[Assignment 6][] | Final project story presentation | N/A
 
 
 [Assignment 0]: bash_intro.md
@@ -21,3 +21,4 @@ Assignment|Description|Solution
 [Assignment 3]: libraries_and_fdic_py.md
 [Assignment 4]: python_functions_sorting_web_basics.md
 [Assignment 5]: senate_compromisers.md
+[Assignment 6]: final_project_story_idea.md

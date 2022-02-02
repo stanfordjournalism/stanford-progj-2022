@@ -22,4 +22,7 @@ The team should follow the guidelines laid out in the below sections of the [Pro
 * Assess and plan
 * Present story idea
 
-The final "deliverable" for this assignment is an in-class presentation of your story idea.
+The "deliverables" for this story pitch assignment are:
+
+- A Google Document submitted via Canvas
+- A brief in-class presentation of your story idea

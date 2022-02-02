@@ -115,9 +115,16 @@ No class.
 #### Day 9
 
 * [APIs and the News](/docs/apis_and_the_news.md) overview and [presentation](https://tinyurl.com/apis-and-the-news)
-* [Working with APIs](/docs/python/working_with_apis.md)
+* [Working with APIs](/docs/python/working_with_apis.md) - we didn't
+  have time to work through this one, but it's got some good background and exercises. Check it out!
 * [Quakebot exercise](/exercises/quakebot.md) - hands-on practice with a JSON feed
+* **[Assignment 5](assignments/senate_compromisers.md)** - Senate compromisers Python script
+
+#### Day 10
+
+* [Quakebot exercise](/exercises/quakebot.md) solutions?
 * [The Art of Writing Functions](/docs/python/art_of_functions.md)
+* [Final project story idea](/assignments/final_project_story_idea.md)
 * **[Assignment 5](assignments/senate_compromisers.md)** - Senate compromisers Python script
 
 
