@@ -124,8 +124,8 @@ No class.
 
 * [Quakebot exercise](/exercises/quakebot.md) solutions?
 * [The Art of Writing Functions](/docs/python/art_of_functions.md)
-* [Final project story idea](/assignments/final_project_story_idea.md)
 * **[Assignment 5](assignments/senate_compromisers.md)** - Senate compromisers Python script
+* **[Assignment 6](/assignments/final_project_story_idea.md)** - Final project story idea pitches
 
 
 [DataKit]: docs/datakit.md
