@@ -41,7 +41,7 @@ We'll depart from the tutorial's setup instructions for virtual environments and
 
 ```
 # Navigate to your code directory, e.g.
-cd ~/Desktop/code
+cd ~/code
 
 # Use datakit to create a new project
 ~/code> datakit project create
@@ -66,22 +66,24 @@ Once you've created a project using the above [Setup](#setup) instructions, you 
 
 ```
 # Navigate to the project if you're not already there
-cd ~/Desktop/code/first-python-notebook
+cd ~/code/first-python-notebook
 
 # and activate the environment
 pipenv shell
 
-# Start jupyter (this should open a 
-# a new page in your web browser)
+# Start jupyter (this should open a new page in your web browser)
 jupyter lab
 ```
+
+To shut down Jupyter Lab, save your work in the browser. Then close the browser tab and `CTRL-C` in the terminal where you invoked `jupyter lab`. The latter step will shut down the local web server process that runs Jupyter Lab in your browser.
+
 
 ## Submissions
 
 Once you have completed the tutorial, you should save and push your work to GitHub using our standard workflow.
 
 ```
-cd ~/Desktop/code/first-python-notebook
+cd ~/code/first-python-notebook
 pipenv shell
 invoke code.push
 ```
