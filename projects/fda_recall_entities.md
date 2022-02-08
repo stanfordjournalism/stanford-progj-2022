@@ -53,7 +53,14 @@ Each of the modules below should be created in a way that allows them to be opti
 
 ### fda.py
 
-`fda.py` should scrape the links to [2021 medical device recall announcements](https://www.fda.gov/medical-devices/medical-device-recalls/2021-medical-device-recalls) and then request and save the raw HTML for each of those "detail" pages to the `data/raw/` directory inside of your project.
+`fda.py` should scrape the links to the current year's [medical device recall announcements](https://www.fda.gov/medical-devices/medical-device-safety/medical-device-recalls). The links to recalls from recent years are typically listed in the left sidebar of the landing page. For example, here is the link for [2022 recall announcements](https://www.fda.gov/medical-devices/medical-device-recalls/2022-medical-device-recalls).
+
+> We chose the current year to limit the scope of this assignment. You
+> can make it even more challenging by expanding to additional years,
+> but be prepared to account all sorts of gnarly data and document
+> inconsistencies.
+
+Once you've located the announcements page for the current year, you should complete `fda.py` by writing c ode to request and save the raw HTML for each of those "detail" pages to the `data/raw/` directory inside of your project.
 
 The files must be named using the last portion of their URL + the `.html` suffix. For example, this url:
 
