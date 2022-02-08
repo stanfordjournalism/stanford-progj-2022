@@ -12,10 +12,7 @@ A few examples of API-based services:
 - [Entity Extraction/Linking/Concept identification](https://www.refinitiv.com/en/products/intelligent-tagging-text-analytics)
 - [Infrastructure](https://docs.aws.amazon.com/index.html#lang/en_us) (e.g. spinning up machines in the cloud for data processing or storing files)
 
-Such tools are critical for the day-to-day work of journalism. For
-example, [DocumentCloud](https://beta.documentcloud.org/) uses the [Refinitiv/OpenCalais API](https://developers.refinitiv.com/en/api-catalog/open-perm-id/intelligent-tagging-restful-api) "intelligent tagging" API to extract
-discrete data -- or entities -- about people, places and organizations
-found in uploaded documents. OpenCalais also attempts to [link those entities](https://en.wikipedia.org/wiki/Entity_linking) to canonical records and provide related [concepts or topics for a document](https://en.wikipedia.org/wiki/Concept_mining).
+Such tools are critical for the day-to-day work of journalism. For example, [DocumentCloud](https://documentcloud.org/) uses the [Refinitiv/OpenCalais API](https://developers.refinitiv.com/en/api-catalog/open-perm-id/intelligent-tagging-restful-api) "intelligent tagging" API to extract discrete data -- or entities -- about people, places and organizations found in uploaded documents. OpenCalais also attempts to [link those entities](https://en.wikipedia.org/wiki/Entity_linking) to canonical records and provide related [concepts or topics for a document](https://en.wikipedia.org/wiki/Concept_mining).
 
 Here's an excerpt from their documentation about the socialTag
 information provided by the API:
