@@ -94,10 +94,11 @@ h1 = soup.find('h1')
 print(h1.text)
 ```
 
-> If you're curious why we include `html.parser` as an option when we
-> call [BeautifulSoup][], check out bs4's docs on [differences between parsers][].
+> If you're curious why we include `html.parser` as an option when we > call [BeautifulSoup][],
+> check out bs4's docs on [installing a parser][] and [differences between parsers][].
 
 [BeautifulSoup]: https://beautiful-soup-4.readthedocs.io/en/latest/#beautifulsoup
+[installing a parser]: https://beautiful-soup-4.readthedocs.io/en/latest/#installing-a-parser
 [differences between parsers]: https://beautiful-soup-4.readthedocs.io/en/latest/#differences-between-parsers
 
 
