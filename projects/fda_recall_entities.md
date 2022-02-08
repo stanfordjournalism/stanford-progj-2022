@@ -57,8 +57,9 @@ Each of the modules below should be created in a way that allows them to be opti
 
 > We chose the current year to limit the scope of this assignment. You
 > can make it even more challenging by expanding to additional years,
-> but be prepared to account all sorts of gnarly data and document
-> inconsistencies.
+> but be prepared to potentially account for data and document
+> inconsistencies (these recall announcements are hand-written and it's
+> very common to encounter inconsistencies across documents).
 
 Once you've located the announcements page for the current year, you should complete `fda.py` by writing c ode to request and save the raw HTML for each of those "detail" pages to the `data/raw/` directory inside of your project.
 
