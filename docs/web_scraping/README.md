@@ -94,6 +94,13 @@ h1 = soup.find('h1')
 print(h1.text)
 ```
 
+> If you're curious why we include `html.parser` as an option when we
+> call [BeautifulSoup][], check out bs4's docs on [differences between parsers][].
+
+[BeautifulSoup]: https://beautiful-soup-4.readthedocs.io/en/latest/#beautifulsoup
+[differences between parsers]: https://beautiful-soup-4.readthedocs.io/en/latest/#differences-between-parsers
+
+
 ## More resources
 
 - [Web scraping exercises](exercises.md) - A few sites to challenge your scraping skills.
