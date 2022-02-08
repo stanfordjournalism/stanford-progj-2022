@@ -89,7 +89,7 @@ A super simple scraping example that extracts the text of the `h1` HTML tag on <
 import bs4, requests
 url = "http://www.example.com"
 html = requests.get(url).text
-soup = bs4.BeautifulSoup(html)
+soup = bs4.BeautifulSoup(html, 'html.parser')
 h1 = soup.find('h1')
 print(h1.text)
 ```
