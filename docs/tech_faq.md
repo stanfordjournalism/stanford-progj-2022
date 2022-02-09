@@ -23,6 +23,30 @@ echo "export BASH_SILENCE_DEPRECATION_WARNING=1" >> ~/.profile
 Close and re-open Terminal
 
 
+### How do I open code in VS Code from the terminal?
+
+There are a [few options](https://code.visualstudio.com/docs/setup/mac),
+but one easy way is to create a shell *alias* in the appropriate configuration file.
+
+> Depending on how your system is set up, this file wil vary but typically it will be `~/.profile` or `~/.bash_profile` for Mac users *in this class*, or `~/.bashrc` for Linux users.
+
+You'll need to locate the Visual Studio Code program on your system, and use that to set up the alias.
+
+For example, on my machine:
+
+```bash
+# e.g. in ~/.profile
+
+alias vscode="/Applications/Visual\ Studio\ Code.app/Contents/Resources/app/bin/code"
+```
+
+Once set, **start a new terminal.** Then you should be able to do the following on the command line:
+
+```bash
+# This should open up a new file called awesome_new_scripy.py in VS Code
+vscode awesome_new_script.py
+```
+
 ### Why won't X install on Mac Catalina?
 
 Some students reported warnings about "malicious" software when trying to install VSCode or Atom code editors on Mac Catalina.
