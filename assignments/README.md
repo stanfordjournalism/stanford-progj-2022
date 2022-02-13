@@ -12,7 +12,12 @@ Assignment|Description|Solution
 [Assignment 3][] | Practical Python skills and FDIC Python | [:link:](https://github.com/zstumgoren/stanford-progj-2022-solutions/tree/main/fdic_py)
 [Assignment 4][] | Python functions and sorting; web basics | N/A
 [Assignment 5][] | Senate compromisers script | [:link:](https://github.com/zstumgoren/stanford-progj-2022-solutions/blob/main/propub_senate_api/senate_compromisers.py)
-[Assignment 6][] | Final project story presentation | N/A
+[Assignment 6][] | Final project story pitch | N/A
+**Assignment 7** |  Prep 1st Python Notebook (see Canvas) | NA
+[Assignment 8][] | First Python Notebook | N/A
+[Assignment 9][] | Data Journalism intro | N/A
+**[FDA Recalls][]** | Optional extra credit assignment | N/A
+**[Final Project][]** | Final Data Project | N/A
 
 
 [Assignment 0]: bash_intro.md
@@ -22,3 +27,9 @@ Assignment|Description|Solution
 [Assignment 4]: python_functions_sorting_web_basics.md
 [Assignment 5]: senate_compromisers.md
 [Assignment 6]: final_project_story_idea.md
+[Assignment 7]: final_project_story_idea.md
+[Assignment 8]: first_notebook.md
+[Assignment 9]: dj_intro.md
+
+[FDA Recalls]: /projects/fda_recall_entities.md
+[Final Project]: /projects/sf_data_analysis.md
