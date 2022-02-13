@@ -76,7 +76,7 @@ No class.
 #### Day 6 - Python Intro Part Deux
 
 * Questions about [Assignment 2](assignments/python_lists_dicts.md) on Python lists/dicts?
-* Complete [configuration steps](docs/tech_setup.md#configure) 
+* Complete [configuration steps](docs/tech_setup.md#configure)
 * **Pop Quiz: Lists/Dicts** (on [Tmux][] in the cloud for a little taste of [Pair Programming][])
 * [Dictionaries crash course](docs/python/dict_basics.md)
 * [Reading and writing text files](docs/python/file_io.md)
@@ -142,6 +142,19 @@ No class.
 * [API Services](/docs/api_services.md)
 * [Refinitiv Entity Extraction](/code/refinitiv_example/README.md)
 * **[Project (extra credit): FDA Recall Entities](/projects/fda_recall_entities.md)** - Scrape FDA recalls and extract entities using the OpenCalais/Refinitiv API
+
+### Week 7
+
+#### Day 13 - Data Journalism Overview and Final Project Check-ins
+
+* Discuss [data journalism readings](/assignments/dj_intro.md)
+* [Whirlwind Tour of the Data Journalism Process](https://docs.google.com/presentation/d/1cEoPLJpZ6FVNLtW5f3jtWhgEeIhPv6eqWae85LAFPcs/edit?usp=sharing)
+* **[Final Project](projects/sf_data_analysis.md)** - Present your [story idea](/assignments/final_project_story_idea.md) and begin data sleuthing & coding as teams.
+
+#### Day 14 - The DJ Process and Intro to Data Analysis
+
+* [Data Analysis with Jupyter and pandas](/docs/python/data_analysis_intro.md)
+* **[Assignment 9](/assignments/first_notebook.md)** - First Python Notebook
 
 
 [DataKit]: docs/datakit.md
