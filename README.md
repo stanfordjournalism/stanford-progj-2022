@@ -155,7 +155,7 @@ No class.
 #### Day 14 - Jupyter/pandas Overview and Coding Workshop
 
 * [Data Analysis with Jupyter and pandas](/docs/python/data_analysis_intro.md) Overview
-* Coding workshop: Work on [Final Project](projects/sf_data_analysis.md) or [FDA Recalls (extra credit)](/projects/fda_recall_entities.md)]
+* Coding workshop: Work on [Final Project](projects/sf_data_analysis.md) or [FDA Recalls (extra credit)](/projects/fda_recall_entities.md)
 
 
 
