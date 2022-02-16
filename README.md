@@ -165,7 +165,7 @@ Classes canceled for President's Day.
 
 #### Day 16 - Coding workshop
 
-* Final project presentations and feedback
+* Final project check-ins
 * Coding workshop: Work on [Final Project][] or [FDA Recalls project][]
 
 [Final Project]: projects/sf_data_analysis.md
