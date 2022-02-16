@@ -6,7 +6,7 @@
 - [pandas](#pandas)
 - [First Python Notebook](#first-python-notebook)
 
-## Jupyter Notebooks 
+## Jupyter Notebooks
 
 The [Jupyter](https://jupyter.org/) notebook is an interactive coding environment especially well-suited for data analysis. It provides a browser-based interface that is much more user-friendly than the Python interactive interpreter.
 
@@ -15,10 +15,10 @@ The ability to blend narrative with code and visualizations has made Jupyter not
 Jupyter typically runs on a local web server, although a number of platforms and services allow you to view notebooks online and even work with Jupyter without having to install anything.
 
 * [Binder](https://mybinder.org/)
-* [Github](https://help.github.com/en/github/managing-files-in-a-repository/working-with-jupyter-notebook-files-on-github)
+* [Github](https://docs.github.com/en/repositories/working-with-files/using-files/working-with-non-code-files#working-with-jupyter-notebook-files-on-github)
 * [Google Colab](https://colab.research.google.com/)
-* [Kaggle](https://www.kaggle.com/docs/kernels#notebooks)
-* [nbviewer](https://nbviewer.jupyter.org/)
+* [Kaggle](https://www.kaggle.com/)
+* [nbviewer](https://nbviewer.org/)
 
 
 A growing number of newsrooms use Jupyter notebooks to collaborate internally, as well as share their work with the public. The Los Angeles Times Data Desk uses Jupyter to tell data-driven stories such as this [analysis of California homes within fire zones][].
@@ -55,8 +55,9 @@ Below are a few resources that can help level up on [pandas][]:
 - [Kaggle pandas tutorial](https://www.kaggle.com/learn/pandas)
 - [10 Minutes to pandas](https://pandas.pydata.org/docs/user_guide/10min.html)
 - Pandas cheat sheets (print these\! They're awesome\!)
-   -  [basics cheat sheet](https://s3.amazonaws.com/assets.datacamp.com/blog_assets/PandasPythonForDataScience.pdf)
-    -  [data wrangling](https://github.com/pandas-dev/pandas/blob/master/doc/cheatsheet/Pandas_Cheat_Sheet.pdf)
+  -  [Data Wrangling](https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf) - great overview of common data(frame) tasks such as merge, group, sort, filter, etc.
+  -  [Pandas Basics for Data Science](https://s3.amazonaws.com/assets.datacamp.com/blog_assets/PandasPythonForDataScience.pdf) - includes pandas basics with details on working with CSV, Excel, and SQL. Just beware some of the syntax is out of date
+
 
 ## First Python Notebook
 
@@ -80,5 +81,3 @@ Below are links to key sections in case you've moved on to your own project and 
 
 
 [pandas]: https://pandas.pydata.org/pandas-docs/stable/user_guide/index.html#user-guide
-
-
