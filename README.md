@@ -150,13 +150,25 @@ No class.
 
 * Discuss [data journalism readings](/assignments/dj_intro.md)
 * [Whirlwind Tour of the Data Journalism Process](https://docs.google.com/presentation/d/1cEoPLJpZ6FVNLtW5f3jtWhgEeIhPv6eqWae85LAFPcs/edit?usp=sharing)
-* **[Final Project](projects/sf_data_analysis.md)** - Present your [story idea](/assignments/final_project_story_idea.md) and begin data sleuthing & coding as teams.
+* **[Final Project][]** - Present your [story idea](/assignments/final_project_story_idea.md) and begin data sleuthing & coding as teams.
 
 #### Day 14 - Jupyter/pandas Overview and Coding Workshop
 
 * [Data Analysis with Jupyter and pandas](/docs/python/data_analysis_intro.md) Overview
-* Coding workshop: Work on [Final Project](projects/sf_data_analysis.md) or [FDA Recalls (extra credit)](/projects/fda_recall_entities.md)
+* Coding workshop: Work on [Final Project](projects/sf_data_analysis.md) or [FDA Recalls project][]
 
+### Week 8
 
+#### Day 15 - President's Day
+
+Classes canceled for President's Day.
+
+#### Day 16 - Coding workshop
+
+* Final project presentations and feedback
+* Coding workshop: Work on [Final Project][] or [FDA Recalls project][]
+
+[Final Project]: projects/sf_data_analysis.md
+[FDA Recalls project]: projects/fda_recall_entities.md
 
 [DataKit]: docs/datakit.md
