@@ -142,6 +142,7 @@ No class.
 * [API Services](/docs/api_services.md)
 * [Refinitiv Entity Extraction](/code/refinitiv_example/README.md)
 * **[Project (extra credit): FDA Recall Entities](/projects/fda_recall_entities.md)** - Scrape FDA recalls and extract entities using the OpenCalais/Refinitiv API
+* **[Assignment 9](/assignments/first_notebook.md)** - First Python Notebook
 
 ### Week 7
 
@@ -151,10 +152,11 @@ No class.
 * [Whirlwind Tour of the Data Journalism Process](https://docs.google.com/presentation/d/1cEoPLJpZ6FVNLtW5f3jtWhgEeIhPv6eqWae85LAFPcs/edit?usp=sharing)
 * **[Final Project](projects/sf_data_analysis.md)** - Present your [story idea](/assignments/final_project_story_idea.md) and begin data sleuthing & coding as teams.
 
-#### Day 14 - The DJ Process and Intro to Data Analysis
+#### Day 14 - Jupyter/pandas Overview and Coding Workshop
 
-* [Data Analysis with Jupyter and pandas](/docs/python/data_analysis_intro.md)
-* **[Assignment 9](/assignments/first_notebook.md)** - First Python Notebook
+* [Data Analysis with Jupyter and pandas](/docs/python/data_analysis_intro.md) Overview
+* Coding workshop: Work on [Final Project](projects/sf_data_analysis.md) or [FDA Recalls (extra credit)](/projects/fda_recall_entities.md)**]
+
 
 
 [DataKit]: docs/datakit.md
