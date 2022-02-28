@@ -168,6 +168,19 @@ Classes canceled for President's Day.
 * Final project check-ins
 * Coding workshop: Work on [Final Project][] or [FDA Recalls project][]
 
+### Week 9
+
+#### Day 17 - Coding workshop
+
+* Review solutions to [FDA Recalls project][]
+* Coding workshop: Work on [Final Project][]
+
+#### Day 18 - Coding workshop
+
+* Final project check-ins
+* Coding workshop: Work on [Final Project][]
+
+
 [Final Project]: projects/sf_data_analysis.md
 [FDA Recalls project]: projects/fda_recall_entities.md
 
