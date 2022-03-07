@@ -180,6 +180,18 @@ Classes canceled for President's Day.
 * Final project check-ins
 * Coding workshop: Work on [Final Project][]
 
+### Week 10
+
+#### Day 19 - Coding workshop
+
+* Coding workshop: Work on [Final Project][]
+
+#### Day 20 - Final presentations and course recap
+
+* [Final Project][] presentations
+* Course retrospective
+* What's next?
+
 
 [Final Project]: projects/sf_data_analysis.md
 [FDA Recalls project]: projects/fda_recall_entities.md
