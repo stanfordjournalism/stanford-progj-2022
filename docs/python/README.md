@@ -26,3 +26,4 @@ Below are the major topics we'll cover:
   * Sorting
   * [Creating data pipelines with modules](data_pipelines_with_modules.md)
   * [Analyzing data with Jupyter notebooks](data_analysis_intro.md)
+  * [Geocoding](/code/geocoding)
